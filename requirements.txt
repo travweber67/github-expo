@@ -1,3 +1,1 @@
-# No external dependencies required for static mode
-json
-asyncio
+python-dotenv>=1.0.0
