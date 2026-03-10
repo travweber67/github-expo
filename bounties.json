@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "name": "Apple",
+        "max_bounty": 2000000,
+        "status": "open",
+        "link": "https://security.apple.com/bounty/",
+        "platform": "Direct"
+    },
+    {
+        "name": "Microsoft",
+        "max_bounty": 250000,
+        "status": "open",
+        "link": "https://www.microsoft.com/en-us/msrc/bounty",
+        "platform": "Direct"
+    },
+    {
+        "name": "Intel",
+        "max_bounty": 100000,
+        "status": "open",
+        "link": "https://app.intigriti.com/programs/intel/intel",
+        "platform": "Intigriti"
+    },
+    {
+        "name": "HackerOne",
+        "max_bounty": 50000,
+        "status": "open",
+        "link": "https://hackerone.com/hackerone",
+        "platform": "HackerOne"
+    },
+    {
+        "name": "Meta",
+        "max_bounty": 45000,
+        "status": "open",
+        "link": "https://www.facebook.com/whitehat",
+        "platform": "Direct"
+    },
+    {
+        "name": "Google",
+        "max_bounty": 31337,
+        "status": "open",
+        "link": "https://bughunters.google.com/",
+        "platform": "Direct"
+    },
+    {
+        "name": "Bugcrowd",
+        "max_bounty": 30000,
+        "status": "open",
+        "link": "https://bugcrowd.com/bugcrowd",
+        "platform": "Bugcrowd"
+    },
+    {
+        "name": "Netflix",
+        "max_bounty": 20000,
+        "status": "open",
+        "link": "https://bugcrowd.com/netflix",
+        "platform": "Bugcrowd"
+    },
+    {
+        "name": "Valve",
+        "max_bounty": 20000,
+        "status": "open",
+        "link": "https://hackerone.com/valve",
+        "platform": "HackerOne"
+    },
+    {
+        "name": "Tesla",
+        "max_bounty": 15000,
+        "status": "open",
+        "link": "https://bugcrowd.com/tesla",
+        "platform": "Bugcrowd"
+    }
+]
